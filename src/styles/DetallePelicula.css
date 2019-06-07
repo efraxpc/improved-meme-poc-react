@@ -1,0 +1,36 @@
+.detalles__container{
+    max-width: 40%;
+    margin: auto;
+}
+
+.list-group-item{
+    text-align: center;
+}
+
+.list-group-item .texto__titulo_descripcion{
+    color: #c1c1c1;
+    font-size: 17px;
+}
+
+.list-group-item .texto__descripcion{
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.boton_volver__container{
+    margin-left: 15px;
+}
+
+.btn-volver{
+    background-color: #2f9aee;
+}
+
+.texto__btn_volver{
+    padding-top: 28px;
+    color: #fff;
+    margin-bottom: 22px;
+}
+
+.btn-volver:hover{
+    background-color: #83d0fc;
+}

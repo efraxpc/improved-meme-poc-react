@@ -1,0 +1,29 @@
+.header__container{
+  background-color: #253556;
+  justify-content: center;
+  align-items: center;
+  height: 108px;
+  margin-bottom: 25px;
+}
+
+.Navbar__brand {
+   color: #ffffff;
+
+   display: flex;
+   align-items: center;
+ }
+
+.Navbar__brand img{
+  margin-top: 16px;
+  height: 73px;
+  width: unset;
+}
+
+.Navbar__brand:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.Navbar__brand-logo {
+  margin-right: 0.5rem;
+}
